@@ -62,12 +62,6 @@ class GroupRoomServiceTest {
     }
 
     @Test
-    @DisplayName("단위 테스트 실패 테스트")
-    void failed_test() {
-        throw new RuntimeException("단위 테스트 실패 테스트");
-    }
-
-    @Test
     @DisplayName("새로운 그룹 채팅방을 생성합니다.")
     void create_group_room() {
 
