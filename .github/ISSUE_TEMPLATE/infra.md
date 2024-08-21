@@ -1,7 +1,7 @@
 ---
-name: Feature
-about: 기능 개발 단위
-title: "[FEATURE] "
+name: Infra
+about: 인프라 설정 단위
+title: "[Infra] "
 labels: ''
 assignees: ByulKim
 

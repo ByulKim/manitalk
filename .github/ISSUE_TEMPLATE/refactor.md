@@ -2,7 +2,7 @@
 name: Refactor
 about: 리팩토링 단위
 title: "[REFACTOR] "
-labels: refactor
+labels: ''
 assignees: ''
 
 ---
