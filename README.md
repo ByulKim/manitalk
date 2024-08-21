@@ -132,6 +132,7 @@ MySQL, Redis, MongoDB
 ## 📍프로젝트 중 고민했던 이슈 기록
 - [API 서버에서 채팅 서버로 이벤트 전송을 위한 트랜잭션 이벤트 처리하기](https://velog.io/@may33/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-to-redis)
 - [비동기 작업을 위한 Thread Pool 설정하기](https://velog.io/@may33/Async%EC%9D%98-Thread-Pool-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [Naver OAuth2.0 적용기](https://velog.io/@may33/Naver-OAuth2.0-%EC%A0%81%EC%9A%A9%EA%B8%B0-ft.-Spring-Boot-Spring-Security)
 
 <br>
 <br>
